@@ -2,7 +2,7 @@
 
 <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92175058/139015491-7a01a79c-9ac0-4fce-b7f3-5b34869e1bd0.png">
                                                  
-<h3 align="center">I am Mohammed Aarish from Ghaziabad, U.P. I am a student of class 7 (2021). I love to do coding</h3>
+<h2 align="center">I am Mohammed Aarish from Ghaziabad, U.P. I am a student of class 7 (2021). I love to do coding</h2>
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
