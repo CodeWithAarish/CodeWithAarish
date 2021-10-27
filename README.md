@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋 I'm Mohammed Aarish</h1>
 <h3 align="center">I am Mohammed Aarish from Ghaziabad, U.P. I am a student of class 7 (2021). I love to do coding</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - This is my iCoderBootstarp Website code. [iCoderBootstarp](https://github.com/CodeWithAarish/iCoderBootstrap)
 
 - These two sites I use to get help **Bootstrap and jQuery**
