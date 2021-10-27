@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mohammed Aarish</h1>
+<h1 align="center">Hello 👋 I'm Mohammed Aarish</h1>
 
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/92175058/139032291-93c900bb-b92e-4f5a-a622-be4b5ed3b962.jpg"> 
 
