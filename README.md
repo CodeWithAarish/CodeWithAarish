@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋 I'm Mohammed Aarish</h1>
 
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/92175058/139102668-870b3b82-0151-4296-88b1-1933bfe7fb38.png"> 
-
-
                                                  
 <h2 align="center">I am Mohammed Aarish from Ghaziabad, U.P. I am a student of class 7 (2021). I love to do coding. From past two months I am trying to download node.js . I am using Windows 7 for 2 or 3 years. My dreams are big and I am trying to make them real. And from this I can change the world.</h2>
 
