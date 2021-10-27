@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Mohammed Aarish</h1>
 
-![c1e8f5214018b99cd0c801a455168346(1)](https://user-images.githubusercontent.com/92175058/139015491-7a01a79c-9ac0-4fce-b7f3-5b34869e1bd0.png)
 
 <h3 align="center">I am Mohammed Aarish from Ghaziabad, U.P. I am a student of class 7 (2021). I love to do coding</h3>
 
