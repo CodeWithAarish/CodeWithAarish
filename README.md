@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-## Some of my popular repositories:-
+
 
 - This is my iCoderBootstarp Website code. [iCoderBootstarp](https://github.com/CodeWithAarish/iCoderBootstrap)
 
