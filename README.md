@@ -50,3 +50,4 @@
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CodeWithAarish&theme=vue-dark&date_format=%5BY.%5Dn.j ="codewithaarish" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithaarish&show_icons=true&locale=en" alt="codewithaarish" /></p>
