@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **aarishm224@gmail.com**
 
-- ⚡Fun Fact **I think that I am funny. I am a coder and I don't know the full of HTML, CSS 😂😂**
+- ⚡Fun Fact **I think that I am funny. I am a coder and I don't know the full form of HTML, CSS 😂😂**
 
 - These two sites I use to get help **Bootstrap and jQuery**
 
