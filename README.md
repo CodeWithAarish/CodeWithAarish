@@ -15,7 +15,7 @@
 
 - This is my Gym Website code. [Gym Website](https://github.com/CodeWithAarish/Gym-website)
 
-- This is my Snake game code.🐍 [Snake game](https://github.com/CodeWithAarish/Snake-Game)
+<!-- - This is my Snake game code.🐍 [Snake game](https://github.com/CodeWithAarish/Snake-Game) -->
 
 
 
