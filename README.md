@@ -13,11 +13,8 @@
 
 
 
-- This is my Gym Website code. [Gym Website](https://github.com/CodeWithAarish/Gym-website)
-
-<!-- - This is my Snake game code.🐍 [Snake game](https://github.com/CodeWithAarish/Snake-Game) -->
-
-
+- This is my TailWind CSS code. [TailWind CSS](https://github.com/CodeWithAarish/Mastering-TailWind-CSS)
+- This is my Strapi code. [Strapi](https://github.com/CodeWithAarish/myshop-strapi-ecommerce)
 
 - 👨‍💻 You can also check out my portfolio at [https://github.com/CodeWithAarish/](https://github.com/CodeWithAarish/)
 
